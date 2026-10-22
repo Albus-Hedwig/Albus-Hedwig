@@ -6,6 +6,14 @@ I build practical tools for AI-assisted development, agent workflows, and system
 
 ## Selected work
 
+### [reliability-lab](https://github.com/Albus-Hedwig/reliability-lab)
+
+An order commits, the response disappears, and the client retries. Real HTTP processes and SQLite evidence compare plain inserts with idempotency; the same events drive an offline replay.
+
+用真实故障实验解释重试与幂等：普通重试产生 2 条订单，幂等重试保留 1 条。Linux 与 macOS 持续验证。
+
+[Run the experiment & inspect the evidence →](https://github.com/Albus-Hedwig/reliability-lab#quick-start)
+
 ### [animate-architecture](https://github.com/Albus-Hedwig/animated-architecture-skill)
 
 Turn system flows into replayable, offline architecture diagrams. A portable Codex skill with a standalone Python builder.
