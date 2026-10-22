@@ -18,7 +18,7 @@ Turn system flows into replayable, offline architecture diagrams. A portable Cod
 
 ### [oss-version](https://github.com/Albus-Hedwig/oss-version)
 
-Check local CLI tool versions against upstream releases and run upgrades from a registry you control. Use it as a Python CLI or a Claude Code skill.
+Check local CLI tool versions against upstream sources and prepare upgrade commands from a registry you control. Use it as a Python CLI or a Claude Code skill.
 
 用一份配置管理开发工具的版本检查与升级。
 
