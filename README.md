@@ -1,16 +1,25 @@
-## Hi there 👋
+# Albus Hedwig
 
-<!--
-**Albus-Hedwig/Albus-Hedwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools for AI-assisted development, agent workflows, and system visualization.
 
-Here are some ideas to get you started:
+把重复操作做成工具，把系统运行过程讲清楚。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### [animate-architecture](https://github.com/Albus-Hedwig/animated-architecture-skill)
+
+Turn system flows into replayable, offline architecture diagrams. A portable Codex skill with a standalone Python builder.
+
+用可播放的架构图展示组件调用、数据流和执行状态。
+
+[![Animated architecture diagram showing an agent workflow](https://raw.githubusercontent.com/Albus-Hedwig/animated-architecture-skill/main/examples/agent-tree/demo.gif)](https://github.com/Albus-Hedwig/animated-architecture-skill#examples)
+
+[Examples & quick start →](https://github.com/Albus-Hedwig/animated-architecture-skill#examples)
+
+### [oss-version](https://github.com/Albus-Hedwig/oss-version)
+
+Check local CLI tool versions against upstream releases and run upgrades from a registry you control. Use it as a Python CLI or a Claude Code skill.
+
+用一份配置管理开发工具的版本检查与升级。
+
+[Usage & configuration →](https://github.com/Albus-Hedwig/oss-version#quick-start)
